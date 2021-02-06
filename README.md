@@ -1,7 +1,7 @@
 ### Hi there, 👋
 
 
-## I am Prateek, App devloper from Hyderabad, India.
+## I am Prateek, a App devloper from Hyderabad, India.
 
 - 🔭 I’m currently working on Spotlight for windows
 - 🌱 I’m currently learning Laravel and ML
