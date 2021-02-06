@@ -1,7 +1,7 @@
 ### Hi there, 👋
 
 
-## I am Prateek. I am a tech warm.
+## I am Prateek. I am a techworm.
 
 I am from Hyderabad, India
 
