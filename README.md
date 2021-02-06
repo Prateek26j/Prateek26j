@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there, 👋
 
-<!--
-**Prateek26j/Prateek26j** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## I am Prateek, Full Stack Web Developer &  App devloper from Hyderabad, India.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Spotlight for windows
+- 🌱 I’m currently learning Laravel and ML
+- 📫 Contact : prateek26j@gmail.com
+- 🔒 Most of my commits are in Private Repositories
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prateek26j&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
