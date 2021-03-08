@@ -14,3 +14,6 @@ I am from Hyderabad, India
 ![Prateeks GitHub stats](https://github-readme-stats.vercel.app/api?username=prateek26j&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prateek26j&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+![My Certificates](https://github.com/Prateek26j/Prateek26j/tree/main/Certificates)
